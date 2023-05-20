@@ -1,5 +1,5 @@
 # Desafio-1-bootcampAWS
-# Criando script para fazer autenticação do projeto1 com faz com aws cognito
+# Criando script para fazer autenticação do projeto1 com aws cognito
 
 - Projeto base, Professor Cassiano-DIO
 https://github.com/cassianobrexbit/dio-live-serverless-2907
